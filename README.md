@@ -1,2 +1,2 @@
 # date
-GUIHO ISO 8601 Date Helpers
+ISO 8601 Date Helpers
